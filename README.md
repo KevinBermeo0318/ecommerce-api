@@ -134,3 +134,11 @@ curl -X POST http://localhost:4000/api/orders \
 - Dockerizar (Dockerfile + docker-compose con Postgres para producción)
 - Integrar Stripe real
 - Agregar wishlist y cupones de descuento
+
+---
+
+## Autor
+
+**Kevin Smith Bermeo Rico**
+📧 Yitrey0206@gmail.com
+🔗 [github.com/KevinBermeo0318](https://github.com/KevinBermeo0318)
